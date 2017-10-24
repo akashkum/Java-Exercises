@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ng-app="billModule">
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Bill Calculation</title>
+	<script type="text/javascript" src="../script/angular.js"></script>
+	<script type="text/javascript" src="../script/BillCalc.js"></script>
+</head>
+<body ng-controller="billController">
+
+<label for="productCost">Product Cost</label>
+<input id="productCost" type="number" ng-model="bill.cost"><br/>
+
+<label for="productQty">Product Quantity</label>
+<input id="productQty" type="number" ng-model="bill.qty" ><br/>
+
+<label for="discount">Discount if any</label>
+<input id="discount" type="number" ng-model="bill.discount" ><br/>
+
+
+Total Bill : {{calcTotalBill()}} <br/>  <!-- Expression in case of Angular js -->
+Total discount : {{calcDiscount()}}<br/>
+Net Bill : {{calcDiscountedBill()}}<br/>
+
+
+</body>
+</html>

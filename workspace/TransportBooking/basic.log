@@ -1,0 +1,28 @@
+2017-09-01 04:48:54,651 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 04:48:55,369 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 04:49:06,249 INFO [myLogger] - Execution in getEmpList() .
+2017-09-01 04:49:06,592 INFO [myLogger] - Connection execution. SELECT * FROM TruckDetails
+2017-09-01 04:54:44,096 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 04:54:46,314 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 04:54:55,857 INFO [myLogger] - Execution in getEmpList() .
+2017-09-01 04:54:56,060 INFO [myLogger] - Connection execution. SELECT * FROM TruckDetails
+2017-09-01 04:55:37,587 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 04:55:38,337 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 04:55:44,670 INFO [myLogger] - Execution in getEmpList() .
+2017-09-01 04:55:44,952 INFO [myLogger] - Connection execution. SELECT * FROM TruckDetails
+2017-09-01 04:56:49,783 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 04:56:50,595 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 04:57:07,222 INFO [myLogger] - Execution in getEmpList() .
+2017-09-01 04:57:07,362 INFO [myLogger] - Connection execution. SELECT * FROM TruckDetails
+2017-09-01 05:01:16,201 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 05:01:18,607 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 05:01:31,774 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 05:01:32,696 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 05:02:55,070 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 05:02:56,414 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 05:03:04,826 INFO [myLogger] - Execution in getEmpList() .
+2017-09-01 05:03:05,232 INFO [myLogger] - Connection execution. SELECT * FROM TruckDetails
+2017-09-01 05:07:37,879 INFO [myLogger] - Service : Dao Injected 
+2017-09-01 05:07:39,393 INFO [myLogger] - Connection proccured in BookingdbDaoImpl.
+2017-09-01 05:07:46,215 INFO [myLogger] - Execution in getEmpList() .
+2017-09-01 05:07:46,465 INFO [myLogger] - Connection execution. SELECT * FROM TruckDetails
